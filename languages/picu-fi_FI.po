@@ -1,0 +1,969 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: picu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-24 16:45+0200\n"
+"PO-Revision-Date: 2016-08-14 23:05+0200\n"
+"Last-Translator: Florian Ziegler <mail@florianziegler.de>\n"
+"Language-Team: \n"
+"Language: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Source-Locale: fi_FI\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: picu.php\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: fi_FI\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: backend/includes/picu-addons-page.php:17
+#: backend/includes/picu-settings.php:72
+msgid "Settings saved"
+msgstr "Asetukset tallennettu"
+
+#: backend/includes/picu-addons-page.php:32
+#: backend/includes/picu-settings.php:49
+#: backend/includes/picu-welcome-screen.php:92
+msgid "Add-Ons"
+msgstr "Lisäosat"
+
+#: backend/includes/picu-addons-page.php:36
+msgid "Licenses"
+msgstr "Lisenssit"
+
+#: backend/includes/picu-addons-page.php:41
+msgid "Extend picu's functionality by using our awesome add-ons"
+msgstr "Laajenna Picun toimivuutta käyttämällä mahtavia lisäosia"
+
+#: backend/includes/picu-addons-page.php:54
+#: backend/includes/picu-addons-page.php:58
+msgid "Brand &amp; Customize"
+msgstr "Brändää & Muokkaa"
+
+#: backend/includes/picu-addons-page.php:56
+msgid ""
+"The <strong>Brand &amp; Customize</strong> add-on enables you to customize "
+"the overall appearance of your collections. Add your logo, adjust the color "
+"scheme and select a font that fits your brand and corporate identity."
+msgstr ""
+"<Strong >Brändää & Muokkaa < / strong> lisäosalla voit muokata kokoelman "
+"yleistä ulkonäköä. Lisää logo, säädä värejä ja valitse fontti, joka sopii "
+"yrityksesi ilmeeseen."
+
+#: backend/includes/picu-addons-page.php:58
+#: backend/includes/picu-addons-page.php:70
+#, php-format
+msgid "Get %s"
+msgstr "Hae %s"
+
+#: backend/includes/picu-addons-page.php:60
+#: backend/includes/picu-addons-page.php:72
+#: backend/includes/picu-welcome-screen.php:93
+msgid "coming soon"
+msgstr "tulossa pian"
+
+#: backend/includes/picu-addons-page.php:66
+#: backend/includes/picu-addons-page.php:70
+msgid "Mail with Style"
+msgstr "Sähköposti "
+
+#: backend/includes/picu-addons-page.php:68
+msgid ""
+"The <strong>Mail with Style</strong> add-on enables you to customize the "
+"default email notifications that are sent to you and to your client."
+msgstr ""
+"<Strong >Sähköposti< / strong> lisäosalla voit muokata sähköposti-"
+"ilmoituksen, joka lähetetään sinulle ja asiakkaalle."
+
+#: backend/includes/picu-addons-page.php:77
+msgid "Ideas?"
+msgstr "Ideoita?"
+
+#: backend/includes/picu-addons-page.php:78
+msgid "Tell us how we can improve your workflow."
+msgstr "Kerro miten voimme parantaa työnkulkua?"
+
+#: backend/includes/picu-addons-page.php:79
+msgid "Contact us"
+msgstr "Ota yhteyttä"
+
+#: backend/includes/picu-addons-page.php:83
+msgid "We are continuously adding more functionality."
+msgstr "Lisäämme jatkuvasti uusia ominaisuuksia."
+
+#: backend/includes/picu-addons-page.php:84
+msgid ""
+"To get notified when a new add-on ships, <a href=\"https://picu.io/#newsletter"
+"\">subscribe to our newsletter</a>."
+msgstr ""
+"Jos haluat saada ilmoituksen, kun uusi lisäosa valmistuu, <a href=\"https://"
+"picu.io/#newsletter\">tilaa uutiskirje </a> ."
+
+#: backend/includes/picu-addons-page.php:111
+msgid "Enter your license key"
+msgstr "Anna lisenssiavain"
+
+#: backend/includes/picu-addons-page.php:122
+msgid "active"
+msgstr "aktivoi"
+
+#: backend/includes/picu-addons-page.php:124
+msgid "Deactivate License"
+msgstr "Poista lisenssi käytöstä"
+
+#: backend/includes/picu-addons-page.php:129
+msgid "Activate License"
+msgstr "Aktivoi lisenssi"
+
+#: backend/includes/picu-addons-page.php:138
+msgid "Save Licenses"
+msgstr "Tallenna lisenssit"
+
+#: backend/includes/picu-admin-notices.php:24
+msgid "Title is missing."
+msgstr "Otsikko puuttuu."
+
+#: backend/includes/picu-admin-notices.php:38
+msgid "No images in collection."
+msgstr "Kokoelmassa ei ole yhtään kuvaa."
+
+#: backend/includes/picu-admin-notices.php:55
+msgid "Email address is missing."
+msgstr "Sähköpostiosoite puuttuu."
+
+#: backend/includes/picu-admin-notices.php:68
+msgid "Invalid email address."
+msgstr "Virheellinen sähköpostiosoite."
+
+#: backend/includes/picu-admin-notices.php:82
+msgid "Description is missing."
+msgstr "Kuvaus puuttuu."
+
+#: backend/includes/picu-admin-notices.php:152
+#, php-format
+msgid "%s Collection saved."
+msgid_plural "%s Collections saved."
+msgstr[0] "%s kokoelma tallennettu."
+msgstr[1] "%s kokoelmat tallennettu."
+
+#: backend/includes/picu-admin-notices.php:153
+#, php-format
+msgid "%s Collection not saved, somebody is editing it."
+msgid_plural "%s Collections not saved, somebody is editing them."
+msgstr[0] "%s kokoelmaa ei tallenneta, joku muokkaa sitä."
+msgstr[1] "%s kokoelmia ei tallenneta, joku muokkaa niitä."
+
+#: backend/includes/picu-admin-notices.php:154
+#, php-format
+msgid "%s Collection permanently deleted."
+msgid_plural "%s Collections permanently deleted."
+msgstr[0] "%s kokoelma poistettu pysyvästi."
+msgstr[1] "%s kokoelmat poistettu pysyvästi."
+
+#: backend/includes/picu-admin-notices.php:155
+#, php-format
+msgid "%s Collection moved to the Trash."
+msgid_plural "%s Collections moved to the Trash."
+msgstr[0] "%s kokoelma siirretty roskakoriin."
+msgstr[1] "%s kokoelmat siirretty roskakoriin."
+
+#: backend/includes/picu-admin-notices.php:156
+#, php-format
+msgid "%s Collection restored from the Trash."
+msgid_plural "%s Collections restored from the Trash."
+msgstr[0] "%s kokoelma palautettiin roskakorista."
+msgstr[1] "%s kokoelmat palautettiin roskakorista."
+
+#: backend/includes/picu-admin-notices.php:176
+#: backend/includes/picu-admin-notices.php:181
+#, php-format
+msgid "Collection saved. <a href=\"%s\">View Collection</a>"
+msgstr "Kokoelma tallennettu. <a href=\"%s\">Katso kokoelma</a>"
+
+#: backend/includes/picu-admin-notices.php:177
+msgid "Custom field updated."
+msgstr "Erikoiskenttä päivitetty."
+
+#: backend/includes/picu-admin-notices.php:178
+msgid "Custom field deleted."
+msgstr "Erikoiskenttä poistettu."
+
+#: backend/includes/picu-admin-notices.php:179
+#: backend/includes/picu-admin-notices.php:182
+msgid "Collection saved."
+msgstr "Kokoelma tallennettu."
+
+#: backend/includes/picu-admin-notices.php:180
+#, php-format
+msgid "Collection restored to revision from %s"
+msgstr "Kokoelma palautettu versioon %s"
+
+#: backend/includes/picu-admin-notices.php:183
+#, php-format
+msgid ""
+"Collection submitted. <a target=\"_blank\" href=\"%s\">Preview Collection</a>"
+msgstr ""
+"Kokoelma lähetetty. <a target=\"_blank\" href=\"%s\">Esikatsele kokoelmaa</a>"
+
+#: backend/includes/picu-admin-notices.php:184
+#, php-format
+msgid ""
+"Collection scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Collection</a>"
+msgstr ""
+"Kokoelma ajastettu  <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Esikatsele kokoelmaa</a>"
+
+#: backend/includes/picu-admin-notices.php:184
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: backend/includes/picu-admin-notices.php:185
+#, php-format
+msgid ""
+"Collection draft updated. <a target=\"_blank\" href=\"%s\">Preview "
+"Collection</a>"
+msgstr ""
+"Kokoelman vedos päivitetty. <a target=\"_blank\" href=\"%s\">Esikatsele "
+"kokoelmaa</a>"
+
+#: backend/includes/picu-ajax.php:16
+msgid ""
+"<strong>Error:</strong> Nonce check failed.<br />Refresh your browser window."
+msgstr ""
+"<strong>Virhe:</strong> Tarkistus epäonnistui.<br />Päivitä selainikkuna."
+
+#: backend/includes/picu-ajax.php:17 backend/includes/picu-ajax.php:29
+#: backend/includes/picu-ajax.php:41 backend/includes/picu-ajax.php:97
+#: backend/includes/picu-ajax.php:106 backend/includes/picu-ajax.php:117
+#: frontend/js/templates/picu-collection-info.php:17
+msgid "OK"
+msgstr "OK"
+
+#: backend/includes/picu-ajax.php:28
+msgid "Error: Post id is not set."
+msgstr "Virhe: Lähetyksen ID:tä ei ole asetettu."
+
+#: backend/includes/picu-ajax.php:40
+msgid "Error: Collection is already approved."
+msgstr "Virhe: Kokoelma on jo hyväksytty."
+
+#: backend/includes/picu-ajax.php:96
+msgid "Your selection was saved."
+msgstr "Valintasi on tallennettu."
+
+#: backend/includes/picu-ajax.php:105
+msgid "Error. Your selection could not be saved."
+msgstr "Virhe: Valintaasi ei voitu tallentaa."
+
+#: backend/includes/picu-ajax.php:116
+msgid "Please select at least one image."
+msgstr "Valitse vähintään yksi kuva."
+
+#: backend/includes/picu-cpt-collection.php:17
+msgid "Collections"
+msgstr "Kokoelmat"
+
+#: backend/includes/picu-cpt-collection.php:18
+#: backend/includes/picu-edit-collection.php:302
+msgid "Collection"
+msgstr "Kokoelma"
+
+#: backend/includes/picu-cpt-collection.php:19
+#: backend/includes/picu-cpt-collection.php:20
+#: backend/includes/picu-cpt-collection.php:22
+#: backend/includes/picu-settings.php:31 backend/includes/picu-settings.php:32
+msgid "New Collection"
+msgstr "Uusi kokoelma"
+
+#: backend/includes/picu-cpt-collection.php:21
+#: backend/includes/picu-edit-collection.php:91
+msgid "Edit Collection"
+msgstr "Muokkaa kokoelmaa"
+
+#: backend/includes/picu-cpt-collection.php:23
+msgid "View Collection"
+msgstr "Katso kokoelmaa"
+
+#: backend/includes/picu-cpt-collection.php:24
+msgid "Search Collections"
+msgstr "Hae kokoelmia"
+
+#: backend/includes/picu-cpt-collection.php:25
+msgid "No Collection Found"
+msgstr "Kokoelmaa ei löydy"
+
+#: backend/includes/picu-cpt-collection.php:26
+msgid "No Collection Found in Trash"
+msgstr "Kokoelmaa ei löydy roskakorista"
+
+#: backend/includes/picu-cpt-collection.php:27
+msgid "Parent Collection"
+msgstr "Alakokoelma"
+
+#: backend/includes/picu-cpt-collection.php:28
+msgid "All Collections"
+msgstr "Kaikki kokoelmat"
+
+#: backend/includes/picu-cpt-collection.php:29
+msgid "Filter collections list"
+msgstr "Suodata kokoelman listaus"
+
+#: backend/includes/picu-cpt-collection.php:30
+msgid "Collections list navigation"
+msgstr "Kokoelmien navigointi"
+
+#: backend/includes/picu-cpt-collection.php:31
+msgid "Collections list"
+msgstr "Kokoelmien listaus"
+
+#: backend/includes/picu-cpt-collection.php:49
+msgctxt "picu collections slug"
+msgid "collections"
+msgstr "kokoelmat"
+
+#: backend/includes/picu-cpt-collection.php:70
+msgctxt "post status name"
+msgid "Sent"
+msgstr "Lähetetty"
+
+#: backend/includes/picu-cpt-collection.php:75
+#, php-format
+msgid "Sent <span class=\"count\">(%s)</span>"
+msgid_plural "Sent <span class=\"count\">(%s)</span>"
+msgstr[0] "Lähetetty <span class=\"count\">(%s)</span>"
+msgstr[1] "Lähetetty <span class=\"count\">(%s)</span>"
+
+#: backend/includes/picu-cpt-collection.php:79
+msgctxt "post status name"
+msgid "Approved"
+msgstr "Hyväksytty"
+
+#: backend/includes/picu-cpt-collection.php:84
+#, php-format
+msgid "Approved <span class=\"count\">(%s)</span>"
+msgid_plural "Approved <span class=\"count\">(%s)</span>"
+msgstr[0] "Hyväksytty <span class=\"count\">(%s)</span>"
+msgstr[1] "Hyväksytty <span class=\"count\">(%s)</span>"
+
+#: backend/includes/picu-cpt-collection.php:152
+msgctxt "picu"
+msgid "Status"
+msgstr "Status"
+
+#: backend/includes/picu-cpt-collection.php:179
+msgid "This collection has been approved."
+msgstr "Tämä kokoelma on hyväksytty."
+
+#: backend/includes/picu-cpt-collection.php:183
+msgid "This collection has been sent to the client for approval."
+msgstr "Kokoelma on lähetetty asiakkaalle hyväksyttäväksi."
+
+#: backend/includes/picu-cpt-collection.php:187
+msgid "This collection has been published but not yet sent to the client."
+msgstr ""
+"Tämä kokoelma on julkaistu, mutta sitä ei ole vielä lähetetty asiakkaalle."
+
+#: backend/includes/picu-cpt-collection.php:191
+msgid "This collection is a draft, which means it cannot be publicly accessed"
+msgstr "Tämä kokoelma on luonnos, eikä sitä voida vielä julkaista."
+
+#: backend/includes/picu-cpt-collection.php:195
+msgid ""
+"This collection is in the trash. You can either restore or permanently delete "
+"it."
+msgstr ""
+"Tämä kokoelma on roskakorissa. Voit joko palauttaa tai poistaa sen pysyvästi."
+
+#: backend/includes/picu-edit-collection.php:21
+msgid "Proofing Status"
+msgstr "Hyväksynnän tila"
+
+#: backend/includes/picu-edit-collection.php:56
+msgid "Create collection"
+msgstr "Luo kokoelma"
+
+#: backend/includes/picu-edit-collection.php:57
+msgid "Waiting for approval"
+msgstr "Odottaa hyväksyntää"
+
+#: backend/includes/picu-edit-collection.php:57
+msgid "sent"
+msgstr "lähetetty"
+
+#: backend/includes/picu-edit-collection.php:58
+#: backend/includes/picu-edit-collection.php:227
+msgid "Approved"
+msgstr "Hyväksytty"
+
+#: backend/includes/picu-edit-collection.php:65
+msgid "Show Password"
+msgstr "Näytä salasana"
+
+#: backend/includes/picu-edit-collection.php:72
+msgid "Password Protection"
+msgstr ""
+
+#: backend/includes/picu-edit-collection.php:75
+msgid "Enter Password"
+msgstr "Kirjoita salasana"
+
+#: backend/includes/picu-edit-collection.php:76
+msgid "Empty Password Field"
+msgstr "Tyhjä salasanakenttä"
+
+#: backend/includes/picu-edit-collection.php:78
+msgid "The password will be sent to the client with the email."
+msgstr "Salasana lähetetään asiakkaalle sähköpostiviestin mukana."
+
+#: backend/includes/picu-edit-collection.php:79
+msgid "Don't forget to sent the password to your client!"
+msgstr "Älä unohda lähettää salasanaa asiakkaalle!"
+
+#: backend/includes/picu-edit-collection.php:96
+msgid "Caution!"
+msgstr "Huomio!"
+
+#: backend/includes/picu-edit-collection.php:96
+msgid "You already sent this collection to the client."
+msgstr "Olet jo lähettänyt tämän kokoelman asiakkaalle."
+
+#: backend/includes/picu-edit-collection.php:96
+msgid "Are you sure you want to make changes?"
+msgstr "Haluatko varmasti tehdä muutokset?"
+
+#: backend/includes/picu-edit-collection.php:98
+msgid "Yes, I am sure"
+msgstr "Kyllä, olen varma"
+
+#: backend/includes/picu-edit-collection.php:98
+msgid "Cancel"
+msgstr "Peruuta"
+
+#: backend/includes/picu-edit-collection.php:108
+msgid "Save"
+msgstr "Tallenna"
+
+#: backend/includes/picu-edit-collection.php:114
+msgid "Send to Client"
+msgstr "Lähetä asiakkaalle"
+
+#: backend/includes/picu-edit-collection.php:195
+msgid "Approval Summary"
+msgstr "Yhteenveto"
+
+#: backend/includes/picu-edit-collection.php:198
+#, php-format
+msgid "%s of %s images have been approved"
+msgstr "%s / %s kuvasta on hyväksytty"
+
+#: backend/includes/picu-edit-collection.php:200
+msgid "Your client added a message"
+msgstr "Asiakkaasi lisäsi viestin"
+
+#: backend/includes/picu-edit-collection.php:208
+msgid "Grid View"
+msgstr "Ruudukkonäkymä"
+
+#: backend/includes/picu-edit-collection.php:209
+msgid "List View"
+msgstr "Listanäkymä"
+
+#: backend/includes/picu-edit-collection.php:212
+msgid "Show"
+msgstr "Näytä"
+
+#: backend/includes/picu-edit-collection.php:214
+msgid "all"
+msgstr "kaikki"
+
+#: backend/includes/picu-edit-collection.php:215
+msgid "approved"
+msgstr "hyväksytty"
+
+#: backend/includes/picu-edit-collection.php:216
+msgid "not approved"
+msgstr "ei hyväksytty"
+
+#: backend/includes/picu-edit-collection.php:220
+msgid "Copy Filenames"
+msgstr "Kopioi tiedostonimet"
+
+#: backend/includes/picu-edit-collection.php:228
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: backend/includes/picu-edit-collection.php:229
+msgid "File"
+msgstr "Tiedosto"
+
+#: backend/includes/picu-edit-collection.php:343
+#: backend/includes/picu-edit-collection.php:432
+msgid "Show all images"
+msgstr "Näytä kaikki kuvat"
+
+#: backend/includes/picu-edit-collection.php:343
+#: backend/includes/picu-edit-collection.php:432
+msgid "Hide images"
+msgstr "Piilota kuvat"
+
+#: backend/includes/picu-edit-collection.php:351
+#: backend/includes/picu-edit-collection.php:444
+msgid "Share Options"
+msgstr "Jaa vaihtoehdot"
+
+#: backend/includes/picu-edit-collection.php:353
+#: backend/includes/picu-edit-collection.php:446
+msgid "Send via email"
+msgstr "Lähetä sähköpostissa"
+
+#: backend/includes/picu-edit-collection.php:354
+#: backend/includes/picu-edit-collection.php:447
+msgid "Copy link &amp; send manually"
+msgstr "Kopioi linkki ja lähetä manuaalisesti"
+
+#: backend/includes/picu-edit-collection.php:358
+#: backend/includes/picu-edit-collection.php:452
+msgid "Enter your clients email address"
+msgstr "Anna asiakkaan sähköpostiosoite"
+
+#: backend/includes/picu-edit-collection.php:358
+#: backend/includes/picu-edit-collection.php:452
+msgid "Client Email"
+msgstr "Asiakkaan sähköpostiosoite"
+
+#: backend/includes/picu-edit-collection.php:361
+#: backend/includes/picu-edit-collection.php:455
+msgid "The description will be sent to your client via email."
+msgstr "Kuvaus lähetetään asiakkaalle sähköpostitse."
+
+#: backend/includes/picu-edit-collection.php:361
+#: backend/includes/picu-edit-collection.php:455
+msgid "Message"
+msgstr "Viesti"
+
+#: backend/includes/picu-edit-collection.php:368
+#: backend/includes/picu-edit-collection.php:466
+msgid "Copy URL"
+msgstr "Kopioi URL"
+
+#: backend/includes/picu-edit-collection.php:369
+#: backend/includes/picu-edit-collection.php:467
+msgid ""
+"<strong>Please note:</strong> picu will <strong>NOT</strong> send an email. "
+"Make sure to copy and send the link to your client manually."
+msgstr ""
+"<strong>Huomio:</strong> Picu <strong>EI LÄHETÄ</strong> sähköpostia. Muista "
+"kopioida ja lähettää linkin asiakkaalle manuaalisesti."
+
+#: backend/includes/picu-edit-collection.php:387
+msgid "Upload Images"
+msgstr "Lisää kuvat"
+
+#: backend/includes/picu-edit-collection.php:436
+msgid "Drag and drop your images here or click the button to upload"
+msgstr "Vedä ja pudota kuvat tähän tai klikkaa painiketta ladataksesi"
+
+#: backend/includes/picu-edit-collection.php:437
+msgid "Upload / Edit Images"
+msgstr "Lataa / Muokkaa kuvia"
+
+#: backend/includes/picu-edit-collection.php:438
+msgid "Maximum upload size"
+msgstr "Maksimikoko"
+
+#: backend/includes/picu-edit-collection.php:438
+msgid "Help"
+msgstr "Apua"
+
+#: backend/includes/picu-edit-collection.php:459
+#, php-format
+msgid ""
+"Dear Client,&#10;&#10;Please select the photos you like and send your "
+"selection back to us. We will start post-production as soon as we have your "
+"approval.&#10;&#10;Sincerely,&#10;%s"
+msgstr ""
+"Arvoisa asiakas,&#10;&#10;Valitse mieleisesi kuvat, kuvien jälkikäsittely "
+"aloitetaan kuvien hyväksynnän jälkeen.&#10;&#10;Terveisin,&#10;%s"
+
+#: backend/includes/picu-email.php:15
+msgid "Click here"
+msgstr "Klikkaa tästä"
+
+#: backend/includes/picu-email.php:19
+msgid "Untitled"
+msgstr "Nimetön"
+
+#: backend/includes/picu-email.php:45
+msgid "Password:"
+msgstr "Salasana:"
+
+#: backend/includes/picu-helper.php:135
+msgid "View Images"
+msgstr "Näytä kuvat"
+
+#: backend/includes/picu-helper.php:136
+msgid ""
+"Not sure why your received this Email?<br>Please <a href=\"mailto:"
+"{user_email}?Subject=Re: {title}\">let us know</a>."
+msgstr ""
+"Etkö tiedä miksi sait tämän viestin?<br>Lähetä sähköpostia <a href=\"mailto:"
+"{user_email}?Subject=Re: {title}\">Tiedoksi</a>."
+
+#: backend/includes/picu-helper.php:142
+#, php-format
+msgid ""
+"Dear Client,\n"
+"\n"
+"Find the images of our photo-shoot \"%s\" here:\n"
+"%s\n"
+"\n"
+"Please select the ones you like and send your selection back to us.\n"
+"We will start post-production as soon as we have your approval.\n"
+"\n"
+"Sincerely,\n"
+"%s"
+msgstr ""
+"Arvoisa asiakas,\n"
+"\n"
+"Kuvausten \"%s\" kuvat löytyvät täältä:\n"
+"%s\n"
+"\n"
+"Valitse mieluisat kuvat ja lähettää valintasi takaisin.\n"
+"Kuvien käsittely aloitetaan hyväksynnän jälkeen.\n"
+"\n"
+"Terveisin,\n"
+"%s"
+
+#: backend/includes/picu-helper.php:192
+#, php-format
+msgid "Collection \"%s\" approved"
+msgstr "Kokoelma \"%s\" hyväksytty"
+
+#: backend/includes/picu-helper.php:209
+#, php-format
+msgid ""
+"Your collection \"%s\" has been approved.\n"
+"\n"
+msgstr "Kokoelmasi \"%s\" on hyväksytty.\n"
+
+#: backend/includes/picu-helper.php:213
+#, php-format
+msgid ""
+"Your client has added the following message:\n"
+"%s\n"
+"\n"
+msgstr ""
+"Asiakkaasi on lisännyt seuraavan viestin:\n"
+" %s\n"
+
+#: backend/includes/picu-helper.php:218
+msgid "View Selection"
+msgstr "Näytä valinta"
+
+#: backend/includes/picu-media.php:263
+msgid "picu Small"
+msgstr "Picu Small"
+
+#: backend/includes/picu-media.php:264
+msgid "picu Large"
+msgstr "Picu Large"
+
+#: backend/includes/picu-settings.php:39
+msgid "picu Settings"
+msgstr "Picu asetukset"
+
+#: backend/includes/picu-settings.php:40
+msgid "Settings"
+msgstr "Asetukset"
+
+#: backend/includes/picu-settings.php:48
+msgid "picu Add-Ons"
+msgstr "Picu lisäosat"
+
+#: backend/includes/picu-settings.php:87
+msgid "General Settings"
+msgstr "Yleiset asetukset"
+
+#: backend/includes/picu-settings.php:110
+msgid "Theme"
+msgstr "Teema"
+
+#: backend/includes/picu-settings.php:111
+msgid "Choose how your collections will be displayed:"
+msgstr "Valitse miten kokoelmat näytetään:"
+
+#: backend/includes/picu-settings.php:115
+msgid "Dark"
+msgstr "Tumma"
+
+#: backend/includes/picu-settings.php:119
+msgid "Light"
+msgstr "Vaalea"
+
+#: backend/includes/picu-settings.php:125
+msgid "Email Notifications"
+msgstr "Sähköposti-ilmoitukset"
+
+#: backend/includes/picu-settings.php:127
+msgid "Send HTML email notifications"
+msgstr "Lähetä sähköpostin ilmoitukset HTML-muodossa"
+
+#: backend/includes/picu-settings.php:127
+msgid ""
+"Don't like HTML in your emails? Switch to plain text by unchecking this box."
+msgstr ""
+"Etkö pidä HTML sähköposteista? Vaihda pelkkään tekstiin poistamalla merkki "
+"tästä ruudusta."
+
+#: backend/includes/picu-settings.php:132
+msgid "Show picu logo"
+msgstr "Näytä Picu logo"
+
+#: backend/includes/picu-settings.php:132
+msgid ""
+"Spread some picu love, by displaying our logo in collections and picu related "
+"emails."
+msgstr "Jaa Picu rakkautta näyttämällä Picu-logo kokoelmissa ja sähköposteissa."
+
+#: backend/includes/picu-settings.php:136
+msgid "Save Settings"
+msgstr "Tallenna asetukset"
+
+#: backend/includes/picu-welcome-screen.php:70
+msgid "Greetings, Photographer!"
+msgstr "Hei valokuvaaja!"
+
+#: backend/includes/picu-welcome-screen.php:71
+msgid "Thank you for installing picu."
+msgstr "Kiitos kun asensit Picun."
+
+#: backend/includes/picu-welcome-screen.php:72
+msgid ""
+"We work very hard to make your experience and that of your clients as smooth "
+"as possible and we hope using picu will transform the way you work and "
+"interact with your photo clients."
+msgstr ""
+"Teemme kovasti töitä, jotta vuorovaikutus asiakkaiden kanssa olisi "
+"mahdollisimman helppoa ja toivottavasti Picu auttaa sinua tehostamaan "
+"työskentelytapojasi."
+
+#: backend/includes/picu-welcome-screen.php:73
+msgid ""
+"If you have feedback of any kind, please get in touch. We'd love to hear from "
+"you."
+msgstr ""
+"Ole yhteydessä, jos sinulla on kysyttävää. Haluamme kuulla mielipiteesi."
+
+#: backend/includes/picu-welcome-screen.php:74
+msgid "To get started follow the steps below."
+msgstr "Aloittaaksesi seuraa näitä ohjeita:"
+
+#: backend/includes/picu-welcome-screen.php:82
+msgid "Get started"
+msgstr "Aloita"
+
+#: backend/includes/picu-welcome-screen.php:83
+msgid "Start right away and create your first collection:"
+msgstr "Aloita heti ja luo ensimmäinen kokoelmasi:"
+
+#: backend/includes/picu-welcome-screen.php:84
+msgid "Create a collection"
+msgstr "Luo kokoelma"
+
+#: backend/includes/picu-welcome-screen.php:85
+msgid "Configure how picu looks:"
+msgstr "Muokkaa Picun näyttöasetuksia:"
+
+#: backend/includes/picu-welcome-screen.php:86
+msgid "Select picu theme"
+msgstr "Valitse Picun teema"
+
+#: backend/includes/picu-welcome-screen.php:94
+msgid ""
+"We are in the process of building great add-ons that will make picu even "
+"better."
+msgstr "Rakennamme hienoaja lisäosia, jotka tekevät Picusta vielä paremman."
+
+#: backend/includes/picu-welcome-screen.php:95
+#, php-format
+msgid ""
+"Check out the <a href=\"%s\">add-ons page</a> or visit <a href=\"http://picu."
+"io/\">our website</a> for further information."
+msgstr ""
+"Katso <a href=\"%s\">lisäosa sivu </a> tai vieraile <a href=\"https://picu.io/"
+"\">sivulla</a>."
+
+#: backend/includes/picu-welcome-screen.php:101
+msgid "Need help?"
+msgstr "Tarvitsetko apua?"
+
+#: backend/includes/picu-welcome-screen.php:103
+msgid "Please take a look at <a href=\"https://picu.io/faq/\">our FAQ</a>."
+msgstr "Katso <a href=\"https://picu.io/faq/\"> UKK</a>."
+
+#: backend/includes/picu-welcome-screen.php:104
+msgid ""
+"If you can't find the answer to your question, please use the official "
+"WordPress.org <a href=\"http://wordpress.org/plugins/picu/support/\">support "
+"forum</a>."
+msgstr ""
+"Jos et löydä vastausta kysymykseesi, käytä virallista WordPress.org <a href="
+"\"http://wordpress.org/plugins/picu/support/\">tukifoorumia</a>."
+
+#: backend/includes/picu-welcome-screen.php:110
+msgid ""
+"To get the latest updates and be informed when our add-ons become available "
+"<a href=\"https://picu.io/#newsletter\">sign up for our newsletter</a>"
+msgstr ""
+"Saat tietoa uusista päivityksistä ja n lisäosista <a href=\"https://picu.io/"
+"#newsletter\">Tilaa uutiskirje</a>"
+
+#: frontend/includes/picu-template-functions.php:319
+msgid ""
+"<h2>No images found</h2><p>It seems there are no images in this collection.</"
+"p>"
+msgstr ""
+"<h2>Kuvia ei löydy</h2><p>Näyttää siltä ettei kokoelmassa ole yhtään kuvaa.</"
+"p>"
+
+#: frontend/js/templates/picu-approved.php:3
+msgid "Thank you!"
+msgstr "Kiitos!"
+
+#: frontend/js/templates/picu-approved.php:4
+msgid ""
+"The collection <strong><%= title %></strong> has been approved and the "
+"photographer has been notified."
+msgstr ""
+"Kokoelma <strong><%= title %></strong> on hyväksytty ja valinnat on lähetetty "
+"eteenpäin."
+
+#: frontend/js/templates/picu-approved.php:5
+msgid "You will be redirected in 5 seconds."
+msgstr "Uudelleenohjaus 5 sekunnin kuluessa."
+
+#: frontend/js/templates/picu-collection-info.php:7
+#: frontend/js/templates/picu-send-selection.php:7
+msgid "Images"
+msgstr "Kuvat"
+
+#: frontend/js/templates/picu-collection-info.php:11
+#: frontend/js/templates/picu-send-selection.php:11
+msgid "selected"
+msgstr "valitut"
+
+#: frontend/js/templates/picu-collection-info.php:19
+msgid "View collection"
+msgstr "Näytä kokoelma"
+
+#: frontend/js/templates/picu-collection-info.php:22
+#: frontend/js/templates/picu-send-selection.php:17
+msgid "close"
+msgstr "sulje"
+
+#: frontend/js/templates/picu-gallery-item.php:17
+msgid "Select image"
+msgstr "Valitse kuva"
+
+#: frontend/js/templates/picu-lightbox.php:7
+msgid "close lightbox"
+msgstr "sulje ikkuna"
+
+#: frontend/js/templates/picu-lightbox.php:9
+msgid "next image"
+msgstr "seuraava kuva"
+
+#: frontend/js/templates/picu-lightbox.php:10
+msgid "previous image"
+msgstr "edellinen kuva"
+
+#: frontend/js/templates/picu-lightbox.php:12
+msgid "select image"
+msgstr "Valitse kuva"
+
+#: frontend/js/templates/picu-send-selection.php:3
+msgid "Approve Collection"
+msgstr "Hyväksy kokoelma"
+
+#: frontend/js/templates/picu-send-selection.php:14
+msgid ""
+"You are about to approve <strong><span class=\"picu-selected-num\"><%= "
+"selected %></span> image(s)</strong> of <strong><%= title %></strong>."
+msgstr ""
+"Olet hyväksymässä <strong><span class=\"picu-selected-num\"><%= selected %></"
+"span> kuvaa</strong> / <strong><%= title %></strong>."
+
+#: frontend/js/templates/picu-send-selection.php:15
+msgid "Anything else you want us to know?"
+msgstr "Haluatko lähettää meille viestin?"
+
+#: frontend/js/templates/picu-send-selection.php:15
+msgctxt "approval message placeholder"
+msgid "Leave a comment…"
+msgstr "Kirjoita viesti..."
+
+#: frontend/js/templates/picu-send-selection.php:16
+msgctxt "send selection button text"
+msgid "approve selection"
+msgstr "Hyväksy valinta"
+
+#: frontend/js/templates/picu-status-bar.php:2
+msgid "Show Information about this collection"
+msgstr "Näytä kokoelman tiedot"
+
+#: frontend/js/templates/picu-status-bar.php:7
+msgid "Send<span> selection</span>…"
+msgstr "Lähetä<span> valinta</span>…"
+
+#: frontend/js/templates/picu-status-bar.php:8
+msgid "save"
+msgstr "Tallenna"
+
+#: frontend/picu-app.php:22 frontend/picu-app.php:43
+msgid "This collection is password protected."
+msgstr "Tämä kokoelma on suojattu salasanalla."
+
+#: frontend/picu-app.php:46
+msgid "Wrong password."
+msgstr "Väärä salasana."
+
+#: frontend/picu-app.php:52
+msgid "To view this collection, enter the password below."
+msgstr "Kirjoita salasana päästäksesi kokoelmaan."
+
+#: frontend/picu-app.php:53
+msgid "Enter"
+msgstr "Enter"
+
+#: frontend/picu-app.php:79
+msgid "Edit"
+msgstr "Muokkaa"
+
+#. Plugin Name of the plugin/theme
+msgid "picu"
+msgstr "Picu"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://picu.io/"
+msgstr "https://picu.io/"
+
+#. Description of the plugin/theme
+msgid "Client proofing for photographers."
+msgstr "Vedosten hyväksyntä valokuvaajille."
+
+#. Author of the plugin/theme
+msgid "Claudio Rimann, Florian Ziegler"
+msgstr "Claudio Rimann, Florian Ziegler"
+
+#~ msgid "Add Password Protection"
+#~ msgstr "Lisää salasanan suojaus"
